@@ -30,22 +30,9 @@ Context-aware image enhancement
 
 The app processes user input and sends optimized requests to Bria APIs, returning production-quality visuals.
 
-📦 Project Structure
-AdNova-Studio/
-│
-├── components/        # UI components
-├── services/          # API logic (Bria integration)
-│   ├── hd_image_generation.py
-│   ├── lifestyle_shot.py
-│   ├── generative_fill.py
-│   ├── erase_foreground.py
-│
-├── utils/             # Helper functions
-├── workflows/         # Processing pipelines
-├── app.py             # Main Streamlit app
-├── .env               # API keys
-├── requirements.txt
-└── README.md
+
+<img width="507" height="436" alt="image" src="https://github.com/user-attachments/assets/82966aed-9ed3-49ec-9213-a463201fdb2a" />
+
 
 📁 Local folder name
 
